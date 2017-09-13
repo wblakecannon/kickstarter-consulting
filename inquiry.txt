@@ -1,0 +1,23 @@
+Inquiry
+——————
+Kickstarter, the crowdfunding platform, is thinking about providing a consulting service to project founders to help its customers create more successful crowdfunding campaigns. You’ve been asked to do some initial analysis. 
+
+In order to complete this assignment, please follow the link and download the following Kickstarter dataset: http://bit.ly/2cgMGDm. Use the dataset to complete this task.
+
+We are tools agnostics, you can use any tools you’d like: Excel, Python, SQL, Tableau, Google spreadsheets, etc. We recommend using whatever tool you know best, we're here to find out how you think about solving data problems, not which tool you can do it in
+
+Part 1: Foundational Data Analysis
+Question 1: What is the mean (total) pledge that projects get? (Not per backer)
+Question 2: Create a histogram that shows the distribution for number of backers. What is the skew of the distribution?
+Question 3a: Is the ‘duration’ variable normally distributed
+Question 3b: If you could collect data on another attribute of these projects, what would it be and why?
+
+Part 2: Qualitative Analysis
+Create a presentation using Google Slides (max. 5 slides) using the data above (and additional data from those tables) that make clear recommendations on how people can create a successful Kickstarter campaign.
+
+Be sure to consider the following:
+
+- What's the best length of time to run a campaign?
+-  What's the ideal pledge goal?
+-  What type of projects would be most successful at getting funded?
+-  Is there an ideal month/day/time to launch a campaign?
